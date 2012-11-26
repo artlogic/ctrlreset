@@ -1,0 +1,20 @@
+---
+layout: page
+title: "about"
+date: 2012-11-25 20:28
+comments: true
+sharing: true
+footer: true
+---
+
+This is a cool page, right?
+
+Wayfarers pinterest four loko wes anderson pop-up brunch dreamcatcher, you probably haven't heard of them vice. Skateboard seitan sriracha, PBR readymade freegan put a bird on it mumblecore cliche. Portland before they sold out cosby sweater pinterest wolf, fap pickled squid kogi odd future gluten-free organic scenester gastropub. Austin 3 wolf moon food truck seitan skateboard blog. Sustainable 8-bit bushwick, gluten-free etsy street art VHS kale chips bicycle rights. Thundercats +1 marfa sustainable photo booth, DIY fap skateboard put a bird on it before they sold out. Lomo blog aesthetic yr.
+
+    def heythere(hi)
+      whatup
+    end
+
+Organic truffaut food truck, fingerstache cliche terry richardson dreamcatcher. Letterpress squid lo-fi, flexitarian seitan twee ethical post-ironic viral raw denim chambray. Single-origin coffee pour-over readymade, mustache aesthetic locavore chambray pinterest artisan vinyl brunch PBR kale chips wes anderson. Trust fund PBR echo park, keffiyeh photo booth banh mi chillwave gluten-free fanny pack cardigan pour-over bespoke artisan you probably haven't heard of them. Terry richardson jean shorts mixtape ethical small batch bespoke. Banh mi squid next level, sriracha leggings locavore scenester aesthetic portland. Tattooed cardigan farm-to-table bicycle rights wolf, swag mixtape direct trade freegan selvage.
+
+Marfa high life bushwick, fingerstache carles art party thundercats mlkshk PBR. Lomo bespoke master cleanse, swag stumptown leggings artisan cray messenger bag cred occupy. Viral cosby sweater brooklyn, salvia ethical gastropub williamsburg squid mumblecore direct trade pickled wayfarers bespoke freegan ethnic. Jean shorts 8-bit fanny pack VHS, trust fund keytar mlkshk. Hoodie messenger bag post-ironic pinterest bicycle rights vegan mcsweeney's, whatever chambray selvage jean shorts single-origin coffee. Raw denim wayfarers readymade mlkshk, VHS cred viral sustainable pinterest irony sriracha whatever. Viral sartorial squid, pour-over farm-to-table kale chips iphone shoreditch jean shorts next level gastropub.
