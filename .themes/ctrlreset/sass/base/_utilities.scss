@@ -26,3 +26,18 @@
   @return $text-color;
 }
 
+
+@mixin transition($selector: all, $time: 0.2s) {
+  transition:         $selector $time;
+  -moz-transition:    $selector $time; /* Firefox 4 */
+  -webkit-transition: $selector $time; /* Safari and Chrome */
+  -o-transition:      $selector $time; /* Opera */
+}
+
+@mixin transform($transform) {
+  transform:         $transform;
+  -ms-transform:     $transform; /* IE 9 */
+  -moz-transform:    $transform; /* Firefox */
+  -webkit-transform: $transform; /* Safari and Chrome */
+  -o-transform:      $transform; /* Opera */
+}

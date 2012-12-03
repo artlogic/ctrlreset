@@ -2,10 +2,11 @@
   @include box-shadow(lighten($sidebar-bg, 5) 0 1px);
 }
 aside.sidebar {
+  border-top: 1px solid #f2f2f2;
   overflow: hidden;
   color: $sidebar-color;
   text-shadow: lighten($sidebar-bg, 8) 0 1px;
-  a { @extend .force-wrap; }
+  a { @extend .force-wrap; font-family: $heading-font-family;}
   section {
     @extend .sans;
     font-size: .8em;

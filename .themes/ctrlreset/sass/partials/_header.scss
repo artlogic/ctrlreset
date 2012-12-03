@@ -1,11 +1,17 @@
 body > header {
   background: $header-bg;
+  text-align: center;
   h1 {
     display: inline-block;
     margin: 0;
-    a, a:visited, a:hover {
+    text-indent: -99999px;
+    background-image: url(/images/ctrlreset-logo.png);
+    width: 248px;
+    height: 42px;
+    a, a:visited {
       color: $title_color;
       text-decoration: none;
+      display: block;
     }
   }
   h2 {
